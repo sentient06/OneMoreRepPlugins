@@ -1,0 +1,535 @@
+[
+    {
+        "id": "081FC381-F188-4905-A1FE-793AFF201846",
+        "name": "barbell front squat",
+        "short": "front squat",
+        "equipmentA": "barbell",
+        "muscleGroup": "legs",
+        "secondaryMuscleGroup": "core",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "46370C22-A3B6-4797-B884-EB783EAA79D1",
+        "name": "lying triceps press",
+        "short": "",
+        "equipmentA": "barbell",
+        "muscleGroup": "arms",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "5F0B0081-83BF-483B-A0A5-D26E75E7165E",
+        "name": "barbell deadlift",
+        "short": "deadlift",
+        "equipmentA": "barbell",
+        "muscleGroup": "back",
+        "secondaryMuscleGroup": "legs",
+        "tertiaryMuscleGroup": "core",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "6416688E-8536-4F8B-935B-F17796BB11A5",
+        "name": "Romanian deadlift",
+        "short": "RDL",
+        "equipmentA": "barbell",
+        "muscleGroup": "legs",
+        "secondaryMuscleGroup": "back",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "64BC2B55-061A-49FA-A834-0CA29B0FFC94",
+        "name": "seated military press",
+        "short": "military press",
+        "equipmentA": "barbell",
+        "muscleGroup": "shoulders",
+        "secondaryMuscleGroup": "arms",
+        "tertiaryMuscleGroup": "core",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "6592099C-6AE0-495F-B181-9B8FB00A6D44",
+        "name": "barbell curl",
+        "short": "curl",
+        "equipmentA": "barbell",
+        "muscleGroup": "arms",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "65EB1261-9601-430D-9A64-57D5F3E7A060",
+        "name": "flat barbell bench press",
+        "short": "bench press",
+        "equipmentA": "barbell",
+        "muscleGroup": "chest",
+        "secondaryMuscleGroup": "arms",
+        "tertiaryMuscleGroup": "shoulders",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "6EF3C453-C52B-4B4A-976F-2BD215472CF5",
+        "name": "close-grip bench press",
+        "short": "",
+        "equipmentA": "barbell",
+        "muscleGroup": "arms",
+        "secondaryMuscleGroup": "chest",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "710B7194-11D8-44FD-87C1-E83A08B08C37",
+        "name": "barbell t-bar row",
+        "short": "t-bar row",
+        "equipmentA": "barbell",
+        "muscleGroup": "back",
+        "secondaryMuscleGroup": "arms",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "A2A73B24-A288-4A6A-BB9A-D71E56139A01",
+        "name": "barbell lunge",
+        "short": "lunge",
+        "equipmentA": "barbell",
+        "muscleGroup": "legs",
+        "secondaryMuscleGroup": "core",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "B29505CB-590D-42CD-91AF-04847FD92BC9",
+        "name": "standing military press",
+        "short": "OHP",
+        "equipmentA": "barbell",
+        "muscleGroup": "shoulders",
+        "secondaryMuscleGroup": "arms",
+        "tertiaryMuscleGroup": "core",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "BA5AE66E-BBB5-4B59-A182-20406E49DF18",
+        "name": "E-Z bar curl",
+        "short": "",
+        "equipmentA": "barbell",
+        "muscleGroup": "arms",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "D6468FE9-B53D-4C2B-8DC9-76F695C805B9",
+        "name": "barbell row",
+        "short": "row",
+        "equipmentA": "barbell",
+        "muscleGroup": "back",
+        "secondaryMuscleGroup": "arms",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "D8B08372-174E-41B1-BE94-20B6B9C822BF",
+        "name": "barbell squat",
+        "short": "squat",
+        "equipmentA": "barbell",
+        "muscleGroup": "legs",
+        "secondaryMuscleGroup": "core",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "ED5CC241-49E4-44F1-842C-CE5F27172B8C",
+        "name": "barbell rear delt row",
+        "short": "rear delt row",
+        "equipmentA": "barbell",
+        "muscleGroup": "shoulders",
+        "secondaryMuscleGroup": "back",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "F3A2479B-E42F-4D71-A587-78B4E7E20FBF",
+        "name": "barbell shrug",
+        "short": "shrug",
+        "equipmentA": "barbell",
+        "muscleGroup": "back",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "FB0A51F6-C02E-4E5C-A031-76B31893658A",
+        "name": "incline barbell bench press",
+        "short": "incline bench press",
+        "equipmentA": "barbell",
+        "muscleGroup": "chest",
+        "secondaryMuscleGroup": "arms",
+        "tertiaryMuscleGroup": "shoulders",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "54EC0013-2DAA-4DF0-B752-C947C732CEB8",
+        "name": "dip (chest)",
+        "short": "dip",
+        "equipmentA": "body",
+        "equipmentB": "dumbbell",
+        "muscleGroup": "chest",
+        "secondaryMuscleGroup": "arms",
+        "tertiaryMuscleGroup": "shoulders",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "380BE85F-E8D4-4C89-98DA-F281EA3325DA",
+        "name": "ab roller",
+        "short": "",
+        "equipmentA": "body",
+        "muscleGroup": "core",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "58D9073A-6AA8-4488-8D4D-B8D593F930F0",
+        "name": "decline crunch",
+        "short": "",
+        "equipmentA": "body",
+        "muscleGroup": "core",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "6AEB33F6-B18D-472B-84B7-FE3F7680E3B4",
+        "name": "flat bench lying leg raise",
+        "short": "",
+        "equipmentA": "body",
+        "muscleGroup": "core",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "73EE3DA1-57B3-4F42-BF1A-880DA08082B6",
+        "name": "captain's chair leg raise",
+        "short": "captain's chair",
+        "equipmentA": "body",
+        "muscleGroup": "core",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "8D2D1D2E-2259-4630-905C-A6DE88947DC0",
+        "name": "hanging leg raise",
+        "short": "",
+        "equipmentA": "body",
+        "muscleGroup": "core",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "9667D19C-C781-486F-B919-BBCF2307D233",
+        "name": "chin-up",
+        "short": "",
+        "equipmentA": "body",
+        "muscleGroup": "back",
+        "secondaryMuscleGroup": "arms",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "BF635DAC-9BE1-4AF2-A290-5E809A9AAEBB",
+        "name": "air bicycle",
+        "short": "",
+        "equipmentA": "body",
+        "muscleGroup": "core",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "C58A3675-C419-4BC0-813C-8308F161E32F",
+        "name": "dip (triceps)",
+        "short": "dip",
+        "equipmentA": "body",
+        "muscleGroup": "arms",
+        "secondaryMuscleGroup": "chest",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "F6177F88-DC5E-495C-B8B6-059FCA1E9CC0",
+        "name": "pull-up",
+        "short": "",
+        "equipmentA": "body",
+        "muscleGroup": "back",
+        "secondaryMuscleGroup": "arms",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "1DD10769-0D96-4ABC-B036-D79AFCDF0719",
+        "name": "seated dumbbell press",
+        "short": "dumbbell press",
+        "equipmentA": "dumbbell",
+        "muscleGroup": "shoulders",
+        "secondaryMuscleGroup": "arms",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "1E4B0941-F875-4AD2-B465-4ACEA7300966",
+        "name": "seated triceps press",
+        "short": "triceps press",
+        "equipmentA": "dumbbell",
+        "muscleGroup": "arms",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "25475414-229D-44CA-BE3F-A7E6EF5280C8",
+        "name": "donkey calf raise",
+        "short": "calf raise",
+        "equipmentA": "dumbbell",
+        "muscleGroup": "legs",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "2A2D51FD-1577-4C5B-A816-0A5C6DC0A75F",
+        "name": "hammer curl",
+        "short": "",
+        "equipmentA": "dumbbell",
+        "muscleGroup": "arms",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "2ABCE499-18BF-4D0D-A908-429569662E01",
+        "name": "dumbbell lunge",
+        "short": "lunge",
+        "equipmentA": "dumbbell",
+        "muscleGroup": "legs",
+        "secondaryMuscleGroup": "core",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "3A96C641-8728-46D9-8E68-933F7DFE6674",
+        "name": "dumbbell side lateral raise",
+        "short": "side lateral raise",
+        "equipmentA": "dumbbell",
+        "muscleGroup": "shoulders",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "63F76814-8ECF-4516-8A66-23AA74D1AC98",
+        "name": "Arnold dumbbell press",
+        "short": "",
+        "equipmentA": "dumbbell",
+        "muscleGroup": "shoulders",
+        "secondaryMuscleGroup": "arms",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "63F9579E-3DB6-4489-BFC0-597861ECF858",
+        "name": "alternating dumbbell curl",
+        "short": "",
+        "equipmentA": "dumbbell",
+        "muscleGroup": "arms",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "6F8DA1FD-B1CE-4BE4-B157-6BD6359A1467",
+        "name": "one-arm dumbbell row",
+        "short": "",
+        "equipmentA": "dumbbell",
+        "muscleGroup": "back",
+        "secondaryMuscleGroup": "arms",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "8312A4B6-F0BA-4063-A2F4-06272F071EA1",
+        "name": "bent-over dumbbell rear delt raise",
+        "short": "rear delt raise",
+        "equipmentA": "dumbbell",
+        "muscleGroup": "shoulders",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "AFA00CE7-E7CA-4610-BB63-34953AF1D084",
+        "name": "seated dumbbell rear delt raise",
+        "short": "rear delt raise",
+        "equipmentA": "dumbbell",
+        "muscleGroup": "shoulders",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "E8412249-AB19-4BBF-83D5-39899F0DBF85",
+        "name": "flat dumbbell press",
+        "short": "",
+        "equipmentA": "dumbbell",
+        "muscleGroup": "chest",
+        "secondaryMuscleGroup": "arms",
+        "tertiaryMuscleGroup": "shoulders",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "EAC2510D-52CE-4E9D-B3CB-4EF2BE36CD2C",
+        "name": "dumbbell front raise",
+        "short": "front raise",
+        "equipmentA": "dumbbell",
+        "muscleGroup": "shoulders",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "F86687B7-0F4E-4829-BB96-8E2B79BCA6BF",
+        "name": "one-arm side lateral raise",
+        "short": "1-arm lateral raise",
+        "equipmentA": "dumbbell",
+        "muscleGroup": "shoulders",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "FBB9E51F-DB71-40D9-87E3-C4697F291D43",
+        "name": "incline dumbbell press",
+        "short": "",
+        "equipmentA": "dumbbell",
+        "muscleGroup": "chest",
+        "secondaryMuscleGroup": "arms",
+        "tertiaryMuscleGroup": "shoulders",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "09E34F75-97FB-4332-94DD-63CA7C817F9B",
+        "name": "cable crunch",
+        "short": "",
+        "equipmentA": "machine",
+        "muscleGroup": "core",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "1426BAE3-6F07-4096-88D0-81523D6C6993",
+        "name": "leg curl",
+        "short": "",
+        "equipmentA": "machine",
+        "muscleGroup": "legs",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "3417A336-862C-47D8-B4B6-686359812D6B",
+        "name": "machine t-bar row",
+        "short": "t-bar row",
+        "equipmentA": "machine",
+        "muscleGroup": "back",
+        "secondaryMuscleGroup": "arms",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "502FB37E-248D-4F06-9796-74BD2FB1B138",
+        "name": "wide-grip front-lat pulldown",
+        "short": "wide-grip pulldown",
+        "equipmentA": "machine",
+        "muscleGroup": "back",
+        "secondaryMuscleGroup": "arms",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "5A387ED0-3CAF-4256-B65E-B2D1EE651E67",
+        "name": "triceps pushdown",
+        "short": "",
+        "equipmentA": "machine",
+        "muscleGroup": "arms",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "6A010270-54BC-4FB0-B219-65F46DAAE0E1",
+        "name": "face pull",
+        "short": "",
+        "equipmentA": "machine",
+        "muscleGroup": "shoulders",
+        "secondaryMuscleGroup": "back",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "7483C009-2BF4-48DB-AEF8-90ED92DD1106",
+        "name": "leg press",
+        "short": "",
+        "equipmentA": "machine",
+        "muscleGroup": "legs",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "80C0CA8A-0705-4B65-95CB-C5D01854AA76",
+        "name": "calf press",
+        "short": "",
+        "equipmentA": "machine",
+        "muscleGroup": "legs",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "9177B785-95AF-41E4-BD58-026897971DC5",
+        "name": "standing calf raise",
+        "short": "calf raise",
+        "equipmentA": "machine",
+        "muscleGroup": "legs",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "99B24C66-4EB7-4DDB-9895-45AAA00BDB70",
+        "name": "seated calf raise",
+        "short": "calf raise",
+        "equipmentA": "machine",
+        "muscleGroup": "legs",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "B78059D9-48FB-4799-9E05-0799D098C880",
+        "name": "close-grip front-lat pulldown",
+        "short": "close-grip pulldown",
+        "equipmentA": "machine",
+        "muscleGroup": "back",
+        "secondaryMuscleGroup": "arms",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "D5862004-ED3B-47E3-9ACF-FE5E2EC4E818",
+        "name": "seated cable row",
+        "short": "cable row",
+        "equipmentA": "machine",
+        "muscleGroup": "back",
+        "secondaryMuscleGroup": "arms",
+        "type": "strength",
+        "measurement": "repetitions"
+    },
+    {
+        "id": "F1ED6C73-7DE9-4468-8647-27FB80C1983D",
+        "name": "hack squat",
+        "short": "",
+        "equipmentA": "machine",
+        "muscleGroup": "legs",
+        "secondaryMuscleGroup": "core",
+        "type": "strength",
+        "measurement": "repetitions"
+    }
+]
