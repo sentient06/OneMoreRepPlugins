@@ -115,7 +115,7 @@
         "id": "BA5AE66E-BBB5-4B59-A182-20406E49DF18",
         "name": "E-Z bar curl",
         "short": "",
-        "equipmentA": "barbell",
+        "equipmentA": "ezbar",
         "muscleGroup": "arms",
         "type": "strength",
         "measurement": "repetitions"
